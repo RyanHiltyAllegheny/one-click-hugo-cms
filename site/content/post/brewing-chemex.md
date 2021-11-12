@@ -1,10 +1,9 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: QOB: Query-Optimization Blockchain
+date: 2021-11-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  A application designed on the basis of blockchain to optimize search queries through the use of   unique hash functions. The tool aims to set goals for an overachieving database system, while comparing other database systems performance.
+
 image: /img/blog-chemex.jpg
 ---
 
