@@ -1,9 +1,9 @@
 ---
-title: QOB: Query-Optimization Blockchain
-date: 2021-11-04T15:04:10.000Z
+title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+date: 2017-01-04T15:04:10.000Z
 description: >-
-  A application designed on the basis of blockchain to optimize search queries through the use of   unique hash functions. The tool aims to set goals for an overachieving database system, while comparing other database systems performance.
-image: /img/blog-chemex.jpg
+  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
+  Mountain coffee beans in our store next week.
 ---
 
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
