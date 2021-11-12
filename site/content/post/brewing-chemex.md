@@ -2,7 +2,7 @@
 title: QOB; Query Optimization Blockchain
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
+  This is a tool designed for database search query optimization by using blockchain technology. This tool aims to make a superior database functionality.
   Mountain coffee beans in our store next week.
 ---
 
