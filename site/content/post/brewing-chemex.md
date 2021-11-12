@@ -3,7 +3,6 @@ title: QOB: Query-Optimization Blockchain
 date: 2021-11-04T15:04:10.000Z
 description: >-
   A application designed on the basis of blockchain to optimize search queries through the use of   unique hash functions. The tool aims to set goals for an overachieving database system, while comparing other database systems performance.
-
 image: /img/blog-chemex.jpg
 ---
 
