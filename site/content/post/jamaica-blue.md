@@ -1,9 +1,9 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Blockchain-19: Database systems with an integration of blockchain'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Blockchain-19 uses the basic attributes of the blockchain algorithm to implement a dimple database with high security. This database aims to hold sensitive data for either companies or individuals. The system uses attributes of hashes and distributed ledgers to complete vast and concrete data system
+  Blockchain is the future of algorithm structures.
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
