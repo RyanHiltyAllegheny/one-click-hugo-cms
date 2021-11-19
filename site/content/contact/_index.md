@@ -1,19 +1,15 @@
 ---
-title: "Contact"
+title: "Contact Me!"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "520 N Main, Allegheny College Box673"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Friday: 9AM – 5PM! I am closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I would love to hear your feedback! It is the groundwork of becoming better. Make sure to leave your remarks about any content on the site! I am looking for opportunities to continue my work and research after graduation in May 2022. Look forward to communicating with you!
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+You can also use the form below for any inquiries about myself or work. Don’t be shy, drop me a line!
