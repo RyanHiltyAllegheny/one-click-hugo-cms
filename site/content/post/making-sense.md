@@ -2,7 +2,7 @@
 title: "GEMS: Gator Error Messaging System"
 date: 2016-12-17T15:04:10.000Z
 description: A tool designed to help educate and foster in-depth understanding of Java error messages with coding assignments.
-image: /img/blog-flavor_wheel.jpg
+image: /img/GEMS-Flow.png
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
