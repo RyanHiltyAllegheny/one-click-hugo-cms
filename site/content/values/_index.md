@@ -4,42 +4,28 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: "Creativity"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Creativity is the heart of innovation and production. Being able to
+      work outside the box within a confined environment is key to creative thinking
+      and problem solving. 
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Communication"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Effective communication is the vital piece to successful teamwork! Working with 
+      others is powerful, as more minds create a greater one. Not only communicating workflows
+      but ideas and concepts are a necessity for team understanding.
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "Teamwork"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Bringing unique ideas to the table and the ability to be decisive are what make a great team 
+      member. Being able to give and recieve academic and professional criticism, creates success 
+      and respect within a team. Holding oneself and others accountable within a group setting to
+      achieve group success. 
     imageUrl: "/img/about-sustainable-farming.jpg"
   - heading: "Hardworking"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Accomplishing goals and tasks requires focus, drive, and passion for the best outcome. Being
+      committed to a team, goal, or purpose is what keeps me driven in my professional and personal careers.
+      Establishing a standard set of rules or goals are what keep us motivated moving forward towards those
+      dreams and aspirations. 
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
 ---
