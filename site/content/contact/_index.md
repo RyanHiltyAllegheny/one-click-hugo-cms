@@ -3,7 +3,7 @@ title: "Contact Me!"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "520 N Main, Allegheny College Box673"
+    text: "520 N Main, Allegheny College Box 673"
   - heading: Working hours
     text: "Monday – Friday: 9AM – 5PM! I am closed on Sundays"
 ---
