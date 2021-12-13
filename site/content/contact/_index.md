@@ -1,6 +1,6 @@
 ---
 title: "Contact Me!"
-logo: "/img/RH.jpeg"
+logo: "/img/Headshot.jpeg"
 contact_entries:
   - heading: Location
     text: "520 N Main, Allegheny College Box 673"
