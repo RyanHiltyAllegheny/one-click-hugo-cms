@@ -4,24 +4,8 @@ date: 2016-12-17T15:04:10.000Z
 description: A tool designed to help educate and foster in-depth understanding of Java error messages with coding assignments.
 image: /img/GEMS-Flow.png
 ---
+The Gator Error Messaging System is a tool I had worked with closely in my early years while in undergraduate education. For this project, I worked alongside one student and one faculty advisor. This allowed us to reach heights for this project that were originally starting very small. This was one of the first large technical applictions/tools I had worked with. Written in Java, the code allows new users to find help not only understanding what kinds of syntax errors they are encountering but also how they would be able to overcome these errors. 
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## GEMS Workflow and Understanding
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+The Java programming language is the first language taught in Mastering the art of programming is one of the core ideas behind undergraduate computer science education. Studying the syntax and semantics of different programming languages is an important step in learning to program. A challenge in this learning process is finding ways to tackle the errors present in programs, and in corporating debugging strategies to produce a meaningful result. The first challenge faced by students is dealing with the frustration of better understanding the errors generated during the compila tion of a program and execution process. The second challenge is identifying ways to resolve these errors by browsing through online sources such as StackOverflow. These frustrations add neg ativity to the learning experience and hence restricts the students from joyfully ascending through the different levels of computer science education. Existing approaches to combatting these chal lenges often fall short in usability. In this paper, a new Gator Error Management System known as GEMS is proposed. In GEMS, our goal is to foster pedagogy in programming without compromising usability. To achieve this, we implemented a translator that con verts raw compiler error messages into a series of enhanced error messages, implemented a smart-compiler feature by implanting scraping procedures on websites such as StackOverflow, proposed two new algorithms to implement the translator and the smart com piler features, and conducted preliminary experiments to showcase the efficiency and the effectiveness of our tool.
