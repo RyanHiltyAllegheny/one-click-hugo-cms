@@ -1,7 +1,7 @@
 ---
 title: "Ryan Hilty: Student by day, Senior Exec by 30"
 subtitle: Allegheny College Computer Science Major
-image: /img/home-jumbotron.jpg
+image: /img/Test1.png
 blurb:
     heading: About Me?
     text: "Allegheny College Computer Science Major intended on graduating in May of 2022. High interest levels within blockchain technologies and robotics. Strong minded with a hardworking attitude. I am from western Pennslyvania outside of Pittsburgh. Music enthusiasts with a light-hearted sound. Athletic background starting from a young age. Love the cold and snow, if I am not at my desk, I am on the slopes." 
