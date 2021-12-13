@@ -1,7 +1,7 @@
 ---
 title: Who is Ryan Hilty?
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/Cyber.jpeg
 heading: Where Did it Start?
 description: >-
   I grew up in a small town outside of Pittsburgh, PA. I attended Penn-Trafford Highschool where I graduated in 2018 with a high academic and athletic ambition. Son of a loving father and mother, with one younger sister, and cannot forget about the fifth family member, Murphy. Before I figured out what all life was about, I liked to be outside playing sports or fishing on the side of the pond. I spent much of my time dedicated to school, family, and friends. Without them I wouldn't be anywhere!
@@ -9,44 +9,23 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        *Education* 
+        Currently attending Allegheny College anticipated graduation date May 2022. Major in Computer Science / Minor in Econ. Current 3.4 GPA. With invovlment in Varsity Men's Soccer, Delta Tau Delta Fraternity, ACM, and Allegheny Ski Club.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        *Skills*
+        I have effective skills in the following areas, I am proficient in coding in several languages including RData, Python, Java, and HTML. I also have experience with other programming languages like C and C++. I am a great collaborator and team contributor. I am able to work well within challenging environments. I am composed within my discipline but am not afraid to share what is right. I am a hardworking indiviudal willing to put in the work and sacrafices for the success of a common goal.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        *Experiences*
+        Throughout my last 6 years or so, I have been able to start using valuable experience not only within the classroom but application opportunities as well. I have worked with computer languages since I highschool. I have a strong interest in understanding langauges as well as developing the software to do so. Working within a discipline for a short period of time has shown me what it takes to be successful. I look forward to bringing my learning and application experiences to your work place.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        *Passions* 
+        This one is a little more about me, cause who wouldn't want to know! I am avid skiier and love the outdoors. My passion for family is what drives me to continue moving forward. I see how my parents have worked for everything we have and deserve it all and more. I strive to wield these attributes to my advantage and use them to help me stay ahead. I like interacting others and learning new things about people, places, or just life in general. 
+  heading: What I offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Learning about something new can be difficult especially when it comes to learning about each other. Hopefully this will give you a good insight as to not only who I am but what I am capable of! Enjoy
 ---
 
 
