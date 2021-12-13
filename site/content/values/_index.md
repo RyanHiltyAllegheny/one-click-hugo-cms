@@ -21,11 +21,11 @@ values:
       and respect within a team. Holding oneself and others accountable within a group setting to
       achieve group success. 
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Hardworking"
+  - heading: "Courage"
     text: >
-      Accomplishing goals and tasks requires focus, drive, and passion for the best outcome. Being
+      Accomplishing goals and tasks requires focus, drive, and courage for the best outcome. Being
       committed to a team, goal, or purpose is what keeps me driven in my professional and personal careers.
       Establishing a standard set of rules or goals are what keep us motivated moving forward towards those
       dreams and aspirations. 
-    imageUrl: "/img/about-direct-sourcing.jpg"
+    imageUrl: "/img/Ski.JPG"
 ---
