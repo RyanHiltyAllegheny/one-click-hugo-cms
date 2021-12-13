@@ -19,7 +19,7 @@ intro:
       text: >
         *Experiences*
         Throughout my last 6 years or so, I have been able to start using valuable experience not only within the classroom but application opportunities as well. I have worked with computer languages since I highschool. I have a strong interest in understanding langauges as well as developing the software to do so. Working within a discipline for a short period of time has shown me what it takes to be successful. I look forward to bringing my learning and application experiences to your work place.
-    - image: /img/Test1.PNG
+    - image: /img/Image2.png
       text: >
         *Passions* 
         This one is a little more about me, cause who wouldn't want to know! I am avid skiier and love the outdoors. My passion for family is what drives me to continue moving forward. I see how my parents have worked for everything we have and deserve it all and more. I strive to wield these attributes to my advantage and use them to help me stay ahead. I like interacting others and learning new things about people, places, or just life in general. 
