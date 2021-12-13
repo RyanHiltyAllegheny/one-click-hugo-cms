@@ -12,7 +12,7 @@ products:
     - image: img/Headshot.jpeg
       text: "Within my undergraduate research I have had to opportunity to work and publish different technical applications. These tools ranged in purpose and motivation allowing me to explore vast areas of computer programming outside of just a classroom setting. Publishing my own project work has allowed me to understand what it takes to be a productive research analyst and producer."
 values:
-    heading: My core values
+    heading: My Core Values
     text: Integrity, Honesty, Faith, Courage, and Dependability.
 ---
 
