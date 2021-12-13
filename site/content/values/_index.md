@@ -20,7 +20,7 @@ values:
       member. Being able to give and recieve academic and professional criticism, creates success 
       and respect within a team. Holding oneself and others accountable within a group setting to
       achieve group success. 
-    imageUrl: "/img/Teamwork.JPG"
+    imageUrl: "/img/Teammwork.JPG"
   - heading: "Courage"
     text: >
       Accomplishing goals and tasks requires focus, drive, and courage for the best outcome. Being
