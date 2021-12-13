@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: /img/Cyber.jpeg
 values:
   - heading: "Creativity"
     text: >
